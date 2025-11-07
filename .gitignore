@@ -30,3 +30,9 @@ go.work.sum
 # Editor/IDE
 .idea/
 .vscode/
+
+# Личные подсказки и заметки
+*.local.*
+*.local
+.devnotes
+commands.local.md
